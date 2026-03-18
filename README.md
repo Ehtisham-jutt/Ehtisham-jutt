@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  I'm Ehtsham Jutt
 I am currently working on Data science & AI apps<br>I am looking to collaborate on open-source AI projects<br>I am looking for help with Algorithms,Git,Data<br>I am currently learning Python,java, AI<br>Ask me About Java & Github<br>Fun fact 1st year software Engineering
 
 
